@@ -84,5 +84,3 @@ for i in range(len(Binary)):
                 Decoded += key
         temp = ''
 print(Decoded)
-
-#TESTT
